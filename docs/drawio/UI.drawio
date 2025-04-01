@@ -1,0 +1,93 @@
+<mxfile host="65bd71144e">
+    <diagram id="XstAt29IVi6Ho-tOLtnJ" name="Version1">
+        <mxGraphModel dx="1994" dy="1679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="20" y="200" width="440" height="250" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="20" y="200" width="440" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="20" y="210" width="440" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" style="edgeStyle=none;html=1;" edge="1" parent="1" source="6" target="15">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Files" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="20" y="210" width="30" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" style="edgeStyle=none;html=1;" edge="1" parent="1" source="7" target="18">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Material" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="210" width="50" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Tool Rack" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="210" width="60" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Text Editor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="25" y="240" width="425" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="X" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="450" y="200" width="10" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="QoR1kv1_i40Hm3sSiZVA-23" style="edgeStyle=none;html=1;" edge="1" parent="1" source="13" target="QoR1kv1_i40Hm3sSiZVA-22">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="Run" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="405" y="210" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="FileExplorer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-120" y="140" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="Material_DataBase" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-127.5" y="70" width="115" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="QoR1kv1_i40Hm3sSiZVA-20" value="Tool_DataBase" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-127.5" y="-10" width="115" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="QoR1kv1_i40Hm3sSiZVA-21" style="edgeStyle=none;html=1;entryX=0.674;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8" target="QoR1kv1_i40Hm3sSiZVA-20">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="QoR1kv1_i40Hm3sSiZVA-22" value="Run_Window" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="182.5" y="-10" width="115" height="40" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="xjnXDnQWfagygeo2ltG9" name="FileExplorer">
+        <mxGraphModel dx="1144" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="Jj9mhlHtn5o9ZYFSp8Vf" name="Material_DataBase">
+        <mxGraphModel dx="1144" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="T1xTowG_-UdXspAj01O2" name="Tool_DataBase">
+        <mxGraphModel dx="1144" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="han2FeCa_btj2-YjiPWX" name="Run_Window">
+        <mxGraphModel dx="1144" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

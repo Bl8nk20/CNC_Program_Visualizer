@@ -1,8 +1,10 @@
 # syntax=docker/dockerfile:1
 
-FROM node:lts-alpine
-WORKDIR /app
+FROM ubuntu:22.04
+
+RUN yes | apt-get update
+RUN yes | apt-get install build-essential
+WORKDIR /.
 COPY . .
-RUN yarn install --production
-CMD ["node", "src/index.js"]
+# CMD ["gcc", "build/"]
 EXPOSE 3000
